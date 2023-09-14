@@ -3,6 +3,6 @@
 Data Correlation project
 
 Performed data cleaning using Using Pandas and numpy
-Utilized Matplotlib and seaborn for Data Visualization 
+,Utilized Matplotlib and seaborn for Data Visualization 
 
 found the correlation between movie departments
